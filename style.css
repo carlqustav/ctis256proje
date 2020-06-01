@@ -1,0 +1,20 @@
+th a{
+    color:black;
+}
+table{
+    table-layout: fixed;
+}
+#modalBtn{
+    position: fixed;
+    right:40px;
+    bottom:40px;
+}
+#toast-container {
+    top: auto !important;
+    right: auto !important;
+    bottom: 10%;
+    left:7%;  
+}
+.collection-item:active{
+    background-color: black!important;
+}
